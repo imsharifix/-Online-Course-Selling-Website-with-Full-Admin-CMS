@@ -1,4 +1,4 @@
-<img width="1920" height="5242" alt="screencapture-127-0-0-1-5500-frontend-course-html-2025-10-08-16_45_46" src="https://github.com/user-attachments/assets/25a890e1-e843-4d18-aca5-a5fa9264a3c3" /># 🎓 Online Course Selling Website with Full Admin CMS
+🎓 Online Course Selling Website with Full Admin CMS
 
 This project is a **complete online course selling platform** built using **HTML, CSS, and JavaScript** for the frontend, and a **Node.js + MongoDB** backend.  
 It includes a **fully featured Admin CMS** for managing users, courses, statistics, comments, and much more.
@@ -43,6 +43,8 @@ To connect the database:
 `npm run dev`
 
 ## Images 
+
+<img width="1920" height="5242" alt="screencapture-127-0-0-1-5500-frontend-course-html-2025-10-08-16_45_46" src="https://github.com/user-attachments/assets/25a890e1-e843-4d18-aca5-a5fa9264a3c3" /># 
 <img width="1920" height="6556" alt="screencapture-127-0-0-1-5500-frontend-index-html-2025-10-08-16_45_16" src="https://github.com/user-attachments/assets/ae2f0f28-6f07-469a-83c7-46e1b88d0eec" />
 <img width="1920" height="5242" alt="screencapture-127-0-0-1-5500-frontend-course-html-2025-10-08-16_45_46" src="https://github.com/user-attachments/assets/434b19a0-22af-4e1e-809b-7533c826923d" />
 <img width="1920" height="1602" alt="screencapture-127-0-0-1-5500-frontend-my-account-Account-2025-10-08-16_46_04" src="https://github.com/user-attachments/assets/bcf5a2f6-3d5d-4660-a030-336dcf8282a7" />
