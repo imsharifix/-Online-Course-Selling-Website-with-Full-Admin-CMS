@@ -42,7 +42,7 @@ To connect the database:
 `npm i`
 `npm run dev`
 
-## Images 
+## 🎞 Images 
 
 <img width="1920" height="5242" alt="screencapture-127-0-0-1-5500-frontend-course-html-2025-10-08-16_45_46" src="https://github.com/user-attachments/assets/25a890e1-e843-4d18-aca5-a5fa9264a3c3" /># 
 <img width="1920" height="6556" alt="screencapture-127-0-0-1-5500-frontend-index-html-2025-10-08-16_45_16" src="https://github.com/user-attachments/assets/ae2f0f28-6f07-469a-83c7-46e1b88d0eec" />
